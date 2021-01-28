@@ -5,5 +5,4 @@
 - 🤔 I’m looking for help with finding an opportunity in FullStack Developement
 - 💬 Ask me about anything you like
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/reyadmahmud/), [reyad.iut@gmail.com](reyad.iut@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Crazy about Football(Soccer)
