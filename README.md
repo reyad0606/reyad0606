@@ -37,6 +37,9 @@
 <br />
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyad0606&theme=dark&show_icons=true)
+
+
 ### Connect with me:
 
 [<img align="left" alt="reyad" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
