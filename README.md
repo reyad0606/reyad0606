@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Nudge Web & Mobile App(React & React Native)
-- 🌱 I’m currently learning Typescript, Angular, Spring
+- 🌱 I’m currently learning Typescript, Spring
 - 👯 I’m looking to collaborate on personal/public projects
 - 🤔 I’m looking for help with finding an opportunity in FullStack Developement
 - 💬 Ask me about anything you like
