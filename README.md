@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web & Mobile App(React & React Native)
+- 🔭 I’m currently working on Web & Mobile App(JS, React & React Native)
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on personal/public projects
 - 🤔 I’m looking for help with finding an opportunity in FullStack Developement
